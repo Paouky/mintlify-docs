@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "willow",
+  "name": "Lightcone",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#38bdf9",
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/white_noBG__logo.png",
   "navigation": {
     "tabs": [
       {
