@@ -7,7 +7,7 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/logo/white_noBG_logo.png",
+  "favicon": "/logo/whiteNoBGLogo.png",
   "navigation": {
     "tabs": [
       {
@@ -89,8 +89,8 @@
     }
   },
   "logo": {
-    "light": "/logo/black_noBG_logo.png",
-    "dark": "/logo/white_noBG_logo.png"
+    "light": "/logo/blackNoBGLogo.png",
+    "dark": "/logo/whiteNoBGLogo.png"
   },
   "navbar": {
     "links": [
