@@ -4,7 +4,7 @@
   "name": "Lightcone",
   "colors": {
     "primary": "#38bdf9",
-    "light": "#38bdf9",
+    "light": "#c085fc",
     "dark": "#15803D"
   },
   "favicon": "/logo/whiteNoBGLogo.png",
@@ -19,30 +19,6 @@
               "index",
               "quickstart",
               "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
             ]
           }
         ]
