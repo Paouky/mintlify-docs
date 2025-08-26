@@ -1,0 +1,4 @@
+/* Change default text color for docs content */
+.mintlify-docs {
+  color: #eeefe8 !important;
+}
