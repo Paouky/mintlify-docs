@@ -9,33 +9,28 @@
   },
   "favicon": "/logo/whiteNoBGLogo.png",
   "navigation": {
-    "tabs": [
+    "groups": [
       {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
+        "group": "Getting started",
+        "pages": [
+          "index",
+          "quickstart",
+          "development"
+        ]
+      },
+      {
+        "group": "API documentation",
+        "pages": [
+          "api-reference/introduction"
+        ]
+      },
+      {
+        "group": "Endpoint examples",
+        "pages": [
+          "api-reference/endpoint/get",
+          "api-reference/endpoint/create",
+          "api-reference/endpoint/delete",
+          "api-reference/endpoint/webhook"
         ]
       }
     ],
