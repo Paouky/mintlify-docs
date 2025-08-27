@@ -38,9 +38,10 @@
     "global": {
       "anchors": [
         {
-          "anchor": "App",
+          "anchor": "Documentation",
           "href": "https://mintlify.com/docs",
           "icon": "book-open-cover"
+          "color": "#c085fc"
         }
       ]
     }
